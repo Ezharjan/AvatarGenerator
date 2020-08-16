@@ -1,0 +1,15 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+@media only screen and (max-width: 950px) {
+  .container {
+    height: auto;
+    margin-bottom: 100px;
+  }
+}
