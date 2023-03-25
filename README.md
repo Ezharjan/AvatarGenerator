@@ -1,3 +1,7 @@
+[Original Repository](https://github.com/loweisz/generate-avatar)
+
+
+
 <div align="center">
 	<img src="logo.png" alt="generate-avatar" />
 </div>
